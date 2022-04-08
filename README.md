@@ -99,8 +99,6 @@
 
 
 
-###网络
 
-*[freenet](https://freenetproject.org/)-匿名去中心网络。
 
 
