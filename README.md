@@ -4,7 +4,6 @@
 
 关于开发分散应用程序的分散技术和工具的策划列表。
 
-感谢[分散网络峰会](https://www.decentralizedweb.net/)寻找灵感。
 
 
 
@@ -44,23 +43,10 @@
 
 
 
-###网
+###网络
 
-*[ActivityPub](https://www.w3.org/TR/activitypub/)-基于Pump的开放、分散的社交网络协议。io的ActivityPump协议。
+*[freenet](https://freenetproject.org/)-匿名去中心网络。
 
-*[区块堆栈](https://blockstack.org/)-Blockstack是一种全新的完全去中心化互联网，带有一整套开源开发工具，用于构建和引导去中心化的应用程序和协议生态系统。
-
-*[libdweb](https://github.com/mozilla/libdweb)-社区努力在Firefox中实现支持dweb协议的实验性API。
-
-*[神秘网络](https://mysterium.network/)-开源网络允许任何人租用未使用的网络流量，同时为需要的人提供安全连接`白皮书`
-
-*[远程存储](https://remotestorage.io/)-用于将数据与应用程序分离的开放协议。
-
-*[可靠](https://solid.mit.edu/)-一套提议的约定和工具，用于基于链接数据原则构建分散的社会应用程序。
-
-*[Webnative](https://fission.codes/)-JavaScript库，将用户数据与应用程序分离，并将其托管在IPFS上。
-
-*[WebRTC](https://en.wikipedia.org/wiki/WebRTC)-W3C起草了浏览器到浏览器数据传输的标准。
 
 
 
@@ -109,4 +95,12 @@
 *[跳弹](https://ricochet.im/)-完全匿名且可能无元数据的聊天**已停止**
 
 *[Librem](https://librem.one)-Librem One是越来越多的道德服务。
+
+
+
+
+###网络
+
+*[freenet](https://freenetproject.org/)-匿名去中心网络。
+
 
