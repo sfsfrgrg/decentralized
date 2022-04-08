@@ -46,7 +46,9 @@
 ###网络
 
 *[freenet](https://freenetproject.org/)-匿名去中心网络。
-*[zeronet](https://zeronet.dev/)-匿名去中心网络。
+
+
+*[zeronet](https://zeronet.dev/)-去中心网络。
 
 
 
