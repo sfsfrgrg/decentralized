@@ -87,7 +87,7 @@
 
 *[灾难广播](https://disaster.radio)-由太阳供电的抗灾通信网络。
 
-*[LevelNews](https://levelnews.org/)-一个为开放网络设计的左翼新闻聚合器，致力于不受审查的新闻报道。
+
 
 *[利伯雷米什](https://libremesh.org/)-用于为无线网格节点创建基于OpenWrt/LEDE的固件的模块化框架。
 
