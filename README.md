@@ -100,6 +100,8 @@
 *[Librem](https://librem.one)-Librem One是越来越多的道德服务。
 
 
+#   赞助
+btc:  13ZXgtiS6yW7nCDcof3GsFGRz6fYGYJ6Q3
 
 
 
