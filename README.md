@@ -51,6 +51,10 @@
 *[zeronet](https://zeronet.dev/)-去中心网络。
 
 
+*[i2p](https://geti2p.net/en/)-匿名网络。
+
+
+
 
 
 
