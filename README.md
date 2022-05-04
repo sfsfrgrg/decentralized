@@ -12,16 +12,15 @@
 
 
 
-##协议和技术
+##货币
 
-*构建分散网络的工具*
+*[门罗](https://www.getmonero.org/zh-cn/index.html)-。
 
 
 
 
 ###沟通
 
-*[伪造](https://github.com/forgefed/forgefed)-一个分散的联邦协议为拉请求、分叉和订阅提供了一个服务器到服务器的API。
 
 *[矩阵](https://matrix.org/)-一个开放的标准，用于通过IP进行分散的持久通信。Matrix希望将所有不同的通信服务连接在一起，并使它们能够互操作。
 
