@@ -106,8 +106,6 @@
 *[speek](https://speek.network/)-基于tor的聊天软件
 
 
-#   赞助
-btc:  13ZXgtiS6yW7nCDcof3GsFGRz6fYGYJ6Q3
 
 
 
