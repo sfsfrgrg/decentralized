@@ -106,7 +106,7 @@
 *[speek](https://speek.network/)-基于tor的聊天软件
 
 
-
+*[阴谋集团](http://cabal.chat)是一个基于dat基础技术构建的分布式聊天平台。这就像IRC，只不过你加入时有后退，而且没有服务器。当前有一个[nodejs库](https://github.com/cabal-club/cabal-core)，[终端客户端](https://github.com/cabal-club/cabal),
 
 
 
