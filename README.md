@@ -38,7 +38,7 @@
 
 *[全息链](https://github.com/holochain/holochain)-一种用于数据共享和完整性的对等协议，由用于数据来源的权威哈希链支持。
 
-*[IPFS](https://ipfs.io/)-或星际文件系统，是一种分布式文件存储系统，旨在取代HTTP。
+*[IPFS](https://ipfs.tech/)-或星际文件系统，是一种分布式文件存储系统，旨在取代HTTP。
 
 
 
