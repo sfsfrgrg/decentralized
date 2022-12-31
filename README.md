@@ -68,7 +68,7 @@
 
 *[反馈](http://backfeed.cc/)-一种能够为社区实现分散和用户拥有的治理和声誉管理的技术**停播了**
 
-*[bitnation.co](https://bitnation.co)-世界上第一个虚拟国家——区块链管辖区。
+*[bitnation.co](https://bitnation.co)-世界上第一个虚拟国家——区块链管辖区。**已停止**
 
 *[git ssb](https://github.com/clehner/git-ssb)-分散的git回购托管和安全SkuttleButt上的问题跟踪。
 
