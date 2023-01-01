@@ -1,4 +1,4 @@
-8#超棒的分散网络[！[超棒]
+38#超棒的分散网络[！[超棒]
 
 
 
@@ -88,13 +88,9 @@
 
 *[伯蒂](https://github.com/berty/berty)-匿名、安全的点对点协议，无需互联网连接即可正常运行。**未经审计**
 
-*[灾难广播](https://disaster.radio)-由太阳供电的抗灾通信网络。
 
 
 
-*[利伯雷米什](https://libremesh.org/)-用于为无线网格节点创建基于OpenWrt/LEDE的固件的模块化框架。
-
-*[Mobilizon](https://joinmobilizon.org/)-一个联合工具，可帮助您查找、创建和组织活动。
 
 *[分享](https://retroshare.cc/)-在你和朋友之间建立加密连接，创建计算机网络，并提供各种分布式服务：论坛、频道、聊天、邮件
 
