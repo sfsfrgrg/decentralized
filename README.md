@@ -86,7 +86,7 @@
 
 *[比特信息](https://bitmessage.org/wiki/Main_Page)-匿名加密消息广播。
 
-*[伯蒂](https://github.com/berty/berty)-匿名、安全的点对点协议，无需互联网连接即可正常运行。
+*[伯蒂](https://github.com/berty/berty)-匿名、安全的点对点协议，无需互联网连接即可正常运行。**未经审计**
 
 *[灾难广播](https://disaster.radio)-由太阳供电的抗灾通信网络。
 
